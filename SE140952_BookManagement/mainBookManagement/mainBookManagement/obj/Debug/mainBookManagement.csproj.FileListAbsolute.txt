@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\bin\Debug\mainBookManagement.exe.config
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\bin\Debug\mainBookManagement.exe
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\bin\Debug\mainBookManagement.pdb
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\bin\Debug\BookManagement.dll
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\bin\Debug\BookManagement.pdb
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\obj\Debug\mainBookManagement.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\obj\Debug\mainBookManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\obj\Debug\mainBookManagement.csproj.CopyComplete
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\obj\Debug\mainBookManagement.exe
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\mainBookManagement\mainBookManagement\obj\Debug\mainBookManagement.pdb

@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\BookManagement\BookManagement\bin\Debug\BookManagement.dll
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\BookManagement\BookManagement\obj\Debug\BookManagement.dll
+C:\Users\HP\Desktop\PRN292\SE140952_BookManagement\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
